@@ -1,0 +1,55 @@
+Project MOROS
+
+MOROS: Greek physical embodiment of doom
+
+To control any  multi-DOF systems from a common, complex, and 
+Objective: Pan media advanced AI MMI handheld actuator
+
+Learning, adapting, and storing user human settings.
+
+Haptics
+12 - 30DOF in 2 handheld actuators
+Zeroize per axis
+Adaptable vehicle control layout.
+Downloadable vehicle model and plants with custom parameterizations.
+2 LED response per axis
+Single axis transfered between axes.
+configuration on a per axis basis
+Pneumatic haptics
+"Knuckleduster"
+
+Per hand:
+5 finger squeeze 1D
+4 finger roll
+
+3 wrist DOF 3D pan / tilt / yaw
+Thumb wheels
+
+26 + 2n DOF 
+GPS
+IMU
+WiFi
+Mesh
+
+A universal controller that allows manual control of any multiDOF vehicle with optimizable plant models. 
+
+To make an MMI interface so common it subsumes all other kinds. 
+The new world standard.
+
+Leads to:
+Training 
+Videos
+System Design/ optimization
+Variable function
+Graceful degradation
+Shift axis control on the fly
+real-time control
+Headless backend server for configuration
+Global command source
+Common messages
+Common standards
+Common API
+Allowing open marketplace standards
+
+To become the global end effector actuator
+
